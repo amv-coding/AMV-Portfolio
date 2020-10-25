@@ -21,8 +21,7 @@ a{
 	background-size: 1330px;
 	background-position: right bottom;
 	background-repeat: no-repeat;
-	opacity: 40%;
-	background-image: url("https://inspirationfeed.com/wp-content/uploads/2015/05/Ugmonk.jpg");
+	background-image: url("https://inspirationfeed.com/wp-content/uploads/2015/05/Ugmonk.jpg") opacity: 45%;
 	background-color: #edf1fd;
 }
 nav{
@@ -213,7 +212,7 @@ nav{
 	
 }
 .s-heading p{
-	color:rgba(255,255,255,0.30);
+	color:#ffffff;
 	font-size: 1rem;
 	margin: 0px;
 	padding: 0px;
